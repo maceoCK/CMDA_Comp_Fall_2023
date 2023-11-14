@@ -1,4 +1,4 @@
-incident_state,incident_city,Number Of Occurences,Year Last Recorded,Population,Total area-sq mi,Land Area-sq mi,Water Area-sq mi,Pop Density,Govt Spending on Transportation
+incident_state,incident_city,Number_Of_Occurrences,Year Last Recorded,Population,Total area-sq mi,Land Area-sq mi,Water Area-sq mi,Pop Density,Govt Spending on Transportation
 NC,Arlington,25,2007,816,0.8,0.8,0,1020,N/A
 NC,Columbus,10,2021,1139,3.77,3.76,0.01,302.1220159,1260186
 NC,Hillsdale,14,2010,984,1.37,1.3,0.07,718.2481752,N/A
